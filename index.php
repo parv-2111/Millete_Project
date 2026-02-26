@@ -40,10 +40,26 @@
               <h3 class="title">Popular Millet Items</h3>
               <div class="desc">
                 <p>By Cooks From Harivanadan</p>
+                  <!-- Search Box Start -->
+  <div class="search-box-wrapper mt-4 d-flex justify-content-center">
+    <div class="search-box position-relative" style="max-width:400px; width:100%;">
+      
+      <input type="text" class="form-control ps-5" placeholder="Search millet items..." 
+            style="height:50px; border-radius:30px;">
+      
+      <i class="fa fa-search position-absolute" 
+        style="top:50%; left:20px; transform:translateY(-50%); color:#888;"></i>
+
+
+        
+    </div>
+  </div>
+  <!-- Search Box End -->
               </div>
-            </div>
           </div>
         </div>
+        
+      
         <div class="row row-gutter-20" >
           <div class="col-sm-6 col-lg-3">
             <!--== Start Job Category Item ==-->
