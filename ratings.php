@@ -140,13 +140,13 @@ function selectRating(element, questionIndex, value){
 
         if(numberValue <= value){
 
-            if(value <= 4){
+            if(value <= 3){
                 num.innerHTML = "😡";
             }
             else if(value <= 6){
                 num.innerHTML = "😐";
             }
-            else if(value <= 8){
+            else if(value <= 7){
                 num.innerHTML = "🙂";
             }
             else{
