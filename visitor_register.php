@@ -82,9 +82,7 @@
                 <div class="login-register-form-info">
                   <p>Already have an account? <a href="visitor_login.php">Login</a></p>
                 </div>
-                <div class="login-register-form-info">
-                  <p>If You Are A <b>"Student"</b> So ... <a href="stud_register.php">Register</a></p>
-                </div>
+                
               </div>
             </div>
           </div>

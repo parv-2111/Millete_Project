@@ -30,7 +30,7 @@
                 </div>
                 <ul class="nav nav-pills" id="pills-tab" role="tablist">
                   <li class="nav-item" role="presentation">
-                    <button class="nav-link active" id="candidate-tab" data-bs-toggle="pill" data-bs-target="#candidate" type="button" role="tab" aria-controls="candidate" aria-selected="true"><i class="icofont-businessman"></i>Student</button>
+                    <button class="nav-link active" id="candidate-tab" data-bs-toggle="pill" data-bs-target="#candidate" type="button" role="tab" aria-controls="candidate" aria-selected="true"><i class="icofont-businessman"></i>Participate</button>
                   </li>
                 </ul>
                 <div class="tab-content" id="pills-tabContent">
@@ -75,7 +75,7 @@
                   </div>
                 </div>
                 <div class="login-register-form-info">
-                  <p>Already have an account? <a href="stud_login.php">Login</a></p>
+                  <p>Already have an account? <a href="part_login.php">Login</a></p>
                 </div>
                 <div class="login-register-form-info">
                   <p>If You Are A <b>"Visitor"</b> So ... <a href="visitor_register.php">Register</a></p>

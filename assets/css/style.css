@@ -6948,3 +6948,21 @@ table p {
   vertical-align: 0px;
   margin: 0;
 }
+.buy-now-btn {
+  display: inline-block;
+  padding: 14px 45px;
+  background-color: #ffffff;
+  color: #000000;
+  font-size: 18px;
+  font-weight: 600;
+  border-radius: 50px;   /* Makes it oval */
+  text-decoration: none;
+  transition: all 0.3s ease;
+  border: 2px solid #000000;
+}
+
+.buy-now-btn:hover {
+  background-color: #28a745;   /* Green */
+  color: #ffffff;
+  border-color: #28a745;
+}

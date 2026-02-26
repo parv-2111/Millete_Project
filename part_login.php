@@ -27,7 +27,7 @@
                 
                 <ul class="nav nav-pills" id="pills-tab" role="tablist">
                   <li class="nav-item" role="presentation">
-                    <button class="nav-link active" id="candidate-tab" data-bs-toggle="pill" data-bs-target="#candidate" type="button" role="tab" aria-controls="candidate" aria-selected="true"><i class="icofont-businessman"></i>Student</button>
+                    <button class="nav-link active" id="candidate-tab" data-bs-toggle="pill" data-bs-target="#candidate" type="button" role="tab" aria-controls="candidate" aria-selected="true"><i class="icofont-businessman"></i>Participent</button>
                   </li>
                 </ul>
             
@@ -56,7 +56,7 @@
                   </div>
                 </form>
                 <div class="login-register-form-info">
-                  <p>Don't you have an account? <a href="stud_register.php">Register</a></p>
+                  <p>Don't you have an account? <a href="part_register.php">Register</a></p>
                 </div>
               </div>
             </div>

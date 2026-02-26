@@ -37,7 +37,7 @@
         <div class="row">
           <div class="col-12">
             <div class="section-title text-center">
-              <h3 class="title">Popular Millet Items</h3>
+              <h3 class="title">Top 10 Earning Millet Items</h3>
               <div class="desc">
                 <p>By Cooks From Harivanadan</p>
                   <!-- Search Box Start -->
@@ -174,6 +174,13 @@
             <!--== Start Team Item ==-->
     </section>
     <!--== End Team Area Wrapper ==-->
+    <!--== Start Buy Now Section ==-->
+<section class="buy-now-section text-center py-5">
+  <div class="container">
+    <a href="buy_token.php" class="buy-now-btn">Buy Now</a>
+  </div>
+</section>
+<!--== End Buy Now Section ==-->
 
 <!--=======================Javascript============================-->
 
